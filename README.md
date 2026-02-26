@@ -1,4 +1,4 @@
-Run Locally (Using Free Gemini API Key)
+# Run Locally (Using Free Gemini API Key)
 
 Prerequisites:  Node.js
 
@@ -13,13 +13,13 @@ Prerequisites:  Node.js
 ![image alt](https://github.com/pt-adarshshukla/DealVerse/blob/a286630f202d5416e063bca4cbb1913461fab62e/Screenshots/1.png)
 ![image alt](https://github.com/pt-adarshshukla/DealVerse/blob/a11aa6b3154aa16b74c3f14a5aaf025ae515aeca/Screenshots/3.png)
 
-Elevator Pitch:
+# Elevator Pitch:
 An intelligent, AI-driven shopping assistant that scans the web in real-time to find the absolute lowest prices, trending price drops, and verified pre-owned deals across major e-commerce platforms.
-The Problem it Solves:
+# The Problem it Solves:
 Shoppers waste hours comparing prices across dozens of tabs, often falling victim to fake discounts, generic search pages, or broken links.
-The Solution:
+# The Solution:
 Powered by Google's Gemini AI, this app does the heavy lifting in under 2 seconds—extracting exact model numbers, verifying brand authenticity, and delivering the ultimate direct "Buy" link alongside an AI-calculated Deal Score.
-Key Features (Ready for Presentation Slides):
+# Key Features (Ready for Presentation Slides):
 📸 Multimodal Vision Search: Users can upload an image of any product to instantly identify the exact brand and model, and immediately compare prices across multiple stores.
 🔥 Real-Time "Trending Drops": Automatically hunts down massive, unbelievable price drops (40%+ off) happening right now on platforms like Amazon and Flipkart.
 ♻️ Pre-Owned Gems: Curates the best refurbished and used electronics from trusted platforms (Cashify, OLX, Amazon Renewed) complete with AI-calculated condition and risk scores.
