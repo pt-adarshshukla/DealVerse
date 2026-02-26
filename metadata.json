@@ -1,0 +1,5 @@
+{
+  "name": "DealVerse AI",
+  "description": "AI-powered e-commerce aggregator that finds the best deals across multiple platforms.",
+  "requestFramePermissions": ["camera"]
+}
