@@ -1,4 +1,4 @@
-![image alt](https://github.com/pt-adarshshukla/Music-Library/blob/48005d4bb2903023124108fa1e8e060a1fad1d6f/Screenshot.png)
+![image alt](https://github.com/pt-adarshshukla/DealVerse/blob/a286630f202d5416e063bca4cbb1913461fab62e/Screenshots/1.png)
 ![image alt](https://github.com/pt-adarshshukla/Music-Library/blob/48005d4bb2903023124108fa1e8e060a1fad1d6f/Screenshot.png)
 
 
