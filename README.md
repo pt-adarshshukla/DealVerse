@@ -1,6 +1,6 @@
 Run Locally (Using Free Gemini API Key)
 
-Prerequisites:**  Node.js
+Prerequisites:  Node.js
 
 
 1. Install dependencies:
