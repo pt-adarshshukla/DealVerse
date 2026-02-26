@@ -19,7 +19,7 @@ An intelligent, AI-driven shopping assistant that scans the web in real-time to 
 Shoppers waste hours comparing prices across dozens of tabs, often falling victim to fake discounts, generic search pages, or broken links.
 # The Solution:
 Powered by Google's Gemini AI, this app does the heavy lifting in under 2 seconds—extracting exact model numbers, verifying brand authenticity, and delivering the ultimate direct "Buy" link alongside an AI-calculated Deal Score.
-# Key Features (Ready for Presentation Slides):
+# Key Features:
 📸 Multimodal Vision Search: Users can upload an image of any product to instantly identify the exact brand and model, and immediately compare prices across multiple stores.
 🔥 Real-Time "Trending Drops": Automatically hunts down massive, unbelievable price drops (40%+ off) happening right now on platforms like Amazon and Flipkart.
 ♻️ Pre-Owned Gems: Curates the best refurbished and used electronics from trusted platforms (Cashify, OLX, Amazon Renewed) complete with AI-calculated condition and risk scores.
