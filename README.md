@@ -1,3 +1,7 @@
+![image alt](https://github.com/pt-adarshshukla/Music-Library/blob/48005d4bb2903023124108fa1e8e060a1fad1d6f/Screenshot.png)
+![image alt](https://github.com/pt-adarshshukla/Music-Library/blob/48005d4bb2903023124108fa1e8e060a1fad1d6f/Screenshot.png)
+
+
 Run Locally
 
 Prerequisites:**  Node.js
